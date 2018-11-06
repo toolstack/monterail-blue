@@ -18,8 +18,8 @@
 
     /* Background folder/thread/Lightning */
     --thread-background-color: #fff;
-    --tree-background-color-selected: #F07746;
-	--tree-background-color-hover: #f5f5f5;
+    --tree-background-color-selected: #1A7BCC;
+	--tree-background-color-hover: #1A7BCC;
 
 	/* Fonts */
     --default-font: LightSans;
