@@ -1,7 +1,7 @@
 # Monterail Blue
 _Monterail Blue, a Thunderbird theme inspired by the mockup of Monterail_
 
-## Oother Monterail inspired themes:
+## Other Monterail inspired themes:
 - [Monterail Dark](https://github.com/conema/monterail-dark)
 - [Monterail Full Dark](https://github.com/conema/monterail-fulldark)
 - [Monterail by Paenglab](https://addons.thunderbird.net/en-US/thunderbird/addon/monterail/)
